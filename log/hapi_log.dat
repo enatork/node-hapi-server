@@ -6,3 +6,5 @@
 {"event":"log","timestamp":1439832580399,"tags":["info"],"data":"Server running at: http://Nostromo:3000","pid":7776}
 {"event":"log","timestamp":1439832621604,"tags":["start"],"data":"hapi-swagger interface loaded","pid":11888}
 {"event":"log","timestamp":1439832621711,"tags":["info"],"data":"Server running at: http://Nostromo:3000","pid":11888}
+{"event":"log","timestamp":1439834127914,"tags":["start"],"data":"hapi-swagger interface loaded","pid":9196}
+{"event":"log","timestamp":1439834127929,"tags":["info"],"data":"Server running at: http://Nostromo:3000","pid":9196}
