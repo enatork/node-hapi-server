@@ -1,0 +1,20 @@
+{
+  "name": "node-hapi-server",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "app.js",
+  "dependencies": {
+    "hapi": "^8.6.1",
+    "hapi-swagger": "^0.7.3",
+    "joi": "^6.4.3",
+    "package": "^1.0.1",
+    "q": "^1.4.1",
+    "qs": "^3.1.0",
+    "rc": "^1.0.3",
+    "request": "^2.60.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": ""
+}
